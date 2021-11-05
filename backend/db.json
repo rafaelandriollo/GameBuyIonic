@@ -1,0 +1,58 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "foto": "/assets/img/crash.jpg",
+      "nome": "Crash Bandicoot",
+      "promocao": true,
+      "validade": "2021-12-31",
+      "preco": 49.9,
+      "plataforma": "PS4"
+    },
+    {
+      "id": 2,
+      "foto": "/assets/img/spyro.jpg",
+      "nome": "Spyro Reignited Trilogy",
+      "promocao": false,
+      "validade": "2021-12-31",
+      "preco": 89.9,
+      "plataforma": "PS4"
+    },
+    {
+      "id": 2,
+      "foto": "/assets/img/gow.jpg",
+      "nome": "God of War",
+      "promocao": false,
+      "validade": "2021-12-31",
+      "preco": 70,
+      "plataforma": "PS4"
+    },
+    {
+      "id": 2,
+      "foto": "/assets/img/horizon.jpg",
+      "nome": "Horizon Zero Dawn",
+      "promocao": false,
+      "validade": "2021-12-31",
+      "preco": 40,
+      "plataforma": "PS4"
+    },
+    {
+      "id": 2,
+      "foto": "/assets/img/tlou2.jpg",
+      "nome": "The Last of Us Part II",
+      "promocao": false,
+      "validade": "2021-12-31",
+      "preco": 150,
+      "plataforma": "PS4"
+    },
+    {
+      "id": 2,
+      "foto": "/assets/img/uncharted4.jpg",
+      "nome": "Uncharted 4",
+      "promocao": false,
+      "validade": "2021-12-31",
+      "preco": 50,
+      "plataforma": "PS4"
+    }
+  ]
+}
